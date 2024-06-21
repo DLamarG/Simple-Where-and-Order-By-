@@ -1,4 +1,4 @@
-# Simple-Where-and-Order-By-
+# Simple-Where-and-Order-By
 For this challenge you need to create a simple SELECT statement that will return all columns from the people table WHERE their age is over 50
 
 people table schema
